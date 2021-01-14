@@ -109,6 +109,9 @@
 		width: 300rpx;
 		height: 300rpx;
 		margin: 30rpx auto;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
 	}
 	.image-container .img{
 		width: 100%;
